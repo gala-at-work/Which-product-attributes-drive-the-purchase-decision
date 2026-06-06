@@ -10,6 +10,12 @@ attributes:
 
 Because respondents reveal their priorities through trade-offs, the analysis lets us estimate how much each attribute drives choice and what customers are willing to pay for each feature.
 
+## Some of the business questions it answers are
+- Should I spend money on fancy flavors and fillings?
+- What should I put in my truffles to get more people to buy?
+- How much extra will people pay if I add superfoods?
+- Which truffle in my range will sell the best?
+
 ## What This Analysis Does
 
 The notebook implements a **conditional (multinomial) logit model** 
