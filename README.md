@@ -13,9 +13,9 @@ Because respondents reveal their priorities through trade-offs, the analysis let
 ## What This Analysis Does
 
 The notebook implements a **conditional (multinomial) logit model** 
-- Descriptive statistics and price–choice cross-tabulations
-- Maximum-likelihood estimation of the choice model (with a likelihood-ratio test)
-- **Part-worth utilities** for each attribute level
+- Descriptive statistics
+- Maximum-likelihood estimation of the choice model
+- **Part-worth utilities** at attribute level
 - **Relative Attribute Importance (RAI)** — how much each attribute drives choice
 - **Willingness-to-Pay (WTP)** in euros, with delta-method standard errors
 - **Market simulation** — predicting market shares for a hypothetical product line
